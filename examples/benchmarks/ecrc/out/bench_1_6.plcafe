@@ -1,0 +1,9 @@
+| ?- {consulting /Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/ecrc/bench_1_6.in ...}
+# Name:             deref(100000)
+# T first loop:     223 msec.
+# T second loop:    8712 msec.
+# T net:            8489 msec.
+# KLips:            0.1413594062904936
+###CSV###,deref(100000),223,8712,8489,0.1413594062904936
+
+{/Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/ecrc/bench_1_6.in consulted, 32 msec}

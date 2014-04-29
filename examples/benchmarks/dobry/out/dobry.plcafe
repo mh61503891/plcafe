@@ -1,0 +1,101 @@
+| ?- {consulting /Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/dobry/dobry.in ...}
+
+# Name: con1
+# Iterations: 100000
+# TestTime: 3634 msec.
+# OverHead: 3108 msec.
+# TestTime-OverHead: 526 msec.
+# (TestTime-OverHead)/Iterations: 0.00526 msec.
+###CSV###,con1,100000,3634,3108,526,0.00526
+
+
+# Name: con6
+# Iterations: 100000
+# TestTime: 3851 msec.
+# OverHead: 3196 msec.
+# TestTime-OverHead: 655 msec.
+# (TestTime-OverHead)/Iterations: 0.00655 msec.
+###CSV###,con6,100000,3851,3196,655,0.00655
+
+
+# Name: diff
+# Iterations: 100000
+# TestTime: 7847 msec.
+# OverHead: 3162 msec.
+# TestTime-OverHead: 4685 msec.
+# (TestTime-OverHead)/Iterations: 0.04685 msec.
+###CSV###,diff,100000,7847,3162,4685,0.04685
+
+
+# Name: hanoi
+# Iterations: 100000
+# TestTime: 26748 msec.
+# OverHead: 3210 msec.
+# TestTime-OverHead: 23538 msec.
+# (TestTime-OverHead)/Iterations: 0.23538 msec.
+###CSV###,hanoi,100000,26748,3210,23538,0.23538
+
+
+# Name: mu
+# Iterations: 100000
+# TestTime: 73508 msec.
+# OverHead: 3058 msec.
+# TestTime-OverHead: 70450 msec.
+# (TestTime-OverHead)/Iterations: 0.7045 msec.
+###CSV###,mu,100000,73508,3058,70450,0.7045
+
+
+# Name: nrev1
+# Iterations: 100000
+# TestTime: 14724 msec.
+# OverHead: 3167 msec.
+# TestTime-OverHead: 11557 msec.
+# (TestTime-OverHead)/Iterations: 0.11557 msec.
+###CSV###,nrev1,100000,14724,3167,11557,0.11557
+
+
+# Name: queens
+# Iterations: 100000
+# TestTime: 27489 msec.
+# OverHead: 3249 msec.
+# TestTime-OverHead: 24240 msec.
+# (TestTime-OverHead)/Iterations: 0.2424 msec.
+###CSV###,queens,100000,27489,3249,24240,0.2424
+
+
+# Name: query
+# Iterations: 100000
+# TestTime: 129219 msec.
+# OverHead: 3205 msec.
+# TestTime-OverHead: 126014 msec.
+# (TestTime-OverHead)/Iterations: 1.26014 msec.
+###CSV###,query,100000,129219,3205,126014,1.26014
+
+
+# Name: qs4
+# Iterations: 100000
+# TestTime: 26194 msec.
+# OverHead: 3302 msec.
+# TestTime-OverHead: 22892 msec.
+# (TestTime-OverHead)/Iterations: 0.22892 msec.
+###CSV###,qs4,100000,26194,3302,22892,0.22892
+
+
+# Name: palin25
+# Iterations: 100000
+# TestTime: 16918 msec.
+# OverHead: 3125 msec.
+# TestTime-OverHead: 13793 msec.
+# (TestTime-OverHead)/Iterations: 0.13793 msec.
+###CSV###,palin25,100000,16918,3125,13793,0.13793
+
+
+# Name: sieve
+# Iterations: 100000
+# TestTime: 78078 msec.
+# OverHead: 3207 msec.
+# TestTime-OverHead: 74871 msec.
+# (TestTime-OverHead)/Iterations: 0.74871 msec.
+###CSV###,sieve,100000,78078,3207,74871,0.74871
+
+{/Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/dobry/dobry.in consulted, 3 msec}

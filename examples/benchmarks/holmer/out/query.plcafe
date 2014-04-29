@@ -1,0 +1,11 @@
+| ?- {consulting /Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/holmer/query.in ...}
+
+# Name: query
+# Iterations: 1000
+# TestTime: 1590 msec.
+# OverHead: 113 msec.
+# TestTime-OverHead: 1477 msec.
+# (TestTime-OverHead)/Iterations: 1.477 msec.
+###CSV###,query,1000,1590,113,1477,1.477
+
+{/Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/holmer/query.in consulted, 7 msec}

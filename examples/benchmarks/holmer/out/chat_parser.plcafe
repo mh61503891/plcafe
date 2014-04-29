@@ -1,0 +1,11 @@
+| ?- {consulting /Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/holmer/chat_parser.in ...}
+
+# Name: chat_parser
+# Iterations: 1000
+# TestTime: 72879 msec.
+# OverHead: 152 msec.
+# TestTime-OverHead: 72727 msec.
+# (TestTime-OverHead)/Iterations: 72.727 msec.
+###CSV###,chat_parser,1000,72879,152,72727,72.727
+
+{/Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/holmer/chat_parser.in consulted, 7 msec}

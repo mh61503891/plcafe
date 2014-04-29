@@ -1,0 +1,11011 @@
+| ?- {consulting /Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/holmer/sdda.in ...}
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+Procedures 
+[[a/2,a(A,B),a(C,C)|D],
+ [c/3,(c(E,F,G):-a(E,F))|H]|_].
+
+Entry points 
+[c(A,B,C)|_].
+
+Exit modes 
+[[a/2,[A,B],[C,C]],
+ [c/3,[D,E,F],[C,C,G]]|_].
+
+
+# Name: sdda
+# Iterations: 1000
+# TestTime: 9047 msec.
+# OverHead: 102 msec.
+# TestTime-OverHead: 8945 msec.
+# (TestTime-OverHead)/Iterations: 8.945 msec.
+###CSV###,sdda,1000,9047,102,8945,8.945
+
+{/Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/holmer/sdda.in consulted, 5 msec}

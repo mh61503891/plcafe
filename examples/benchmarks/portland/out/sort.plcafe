@@ -1,0 +1,11 @@
+| ?- {consulting /Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/portland/sort.in ...}
+
+# Name: qsort(1000)
+# Iterations: 100
+# TestTime: 9923 msec.
+# OverHead: 23 msec.
+# TestTime-OverHead: 9900 msec.
+# (TestTime-OverHead)/Iterations: 99.0 msec.
+###CSV###,qsort(1000),100,9923,23,9900,99.0
+
+{/Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/portland/sort.in consulted, 25 msec}

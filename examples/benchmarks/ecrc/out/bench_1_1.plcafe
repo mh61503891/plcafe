@@ -1,0 +1,9 @@
+| ?- {consulting /Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/ecrc/bench_1_1.in ...}
+# Name:             boresea(100000)
+# T overall loop:   2242 msec.
+# T compens loop:   49 msec.
+# T net:            2193 msec.
+# KLips:            9.119927040583676
+###CSV###,boresea(100000),2242,49,2193,9.119927040583676
+
+{/Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/ecrc/bench_1_1.in consulted, 25 msec}

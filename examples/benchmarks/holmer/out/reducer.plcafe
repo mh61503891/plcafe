@@ -1,0 +1,11 @@
+| ?- {consulting /Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/holmer/reducer.in ...}
+
+# Name: reducer
+# Iterations: 1000
+# TestTime: 32231 msec.
+# OverHead: 115 msec.
+# TestTime-OverHead: 32116 msec.
+# (TestTime-OverHead)/Iterations: 32.116 msec.
+###CSV###,reducer,1000,32231,115,32116,32.116
+
+{/Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/holmer/reducer.in consulted, 7 msec}

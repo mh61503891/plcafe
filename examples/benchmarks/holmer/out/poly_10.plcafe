@@ -1,0 +1,11 @@
+| ?- {consulting /Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/holmer/poly_10.in ...}
+
+# Name: poly_10
+# Iterations: 1000
+# TestTime: 42126 msec.
+# OverHead: 163 msec.
+# TestTime-OverHead: 41963 msec.
+# (TestTime-OverHead)/Iterations: 41.963 msec.
+###CSV###,poly_10,1000,42126,163,41963,41.963
+
+{/Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/holmer/poly_10.in consulted, 8 msec}

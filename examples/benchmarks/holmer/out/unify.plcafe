@@ -1,0 +1,11 @@
+| ?- {consulting /Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/holmer/unify.in ...}
+
+# Name: unify
+# Iterations: 1000
+# TestTime: 2007 msec.
+# OverHead: 108 msec.
+# TestTime-OverHead: 1899 msec.
+# (TestTime-OverHead)/Iterations: 1.899 msec.
+###CSV###,unify,1000,2007,108,1899,1.899
+
+{/Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/holmer/unify.in consulted, 6 msec}

@@ -1,0 +1,22 @@
+| ?- {consulting /Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/quintus/bench.in ...}
+
+381538.46153846156 lips for 10 iterations taking 13 msecs (15-2)
+
+1653333.3333333333 lips for 20 iterations taking 6 msecs (6-0)
+
+1907692.3076923077 lips for 50 iterations taking 13 msecs (14-1)
+
+3815384.6153846155 lips for 100 iterations taking 13 msecs (14-1)
+
+1.1022222222222222E7 lips for 200 iterations taking 9 msecs (22-13)
+
+4509090.909090909 lips for 500 iterations taking 55 msecs (56-1)
+
+4769230.769230769 lips for 1000 iterations taking 104 msecs (105-1)
+
+4839024.390243903 lips for 2000 iterations taking 205 msecs (206-1)
+
+4085667.215815486 lips for 5000 iterations taking 607 msecs (612-5)
+
+4488687.78280543 lips for 10000 iterations taking 1105 msecs (1109-4)
+{/Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/quintus/bench.in consulted, 3 msec}

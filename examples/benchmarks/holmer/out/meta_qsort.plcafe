@@ -1,0 +1,11 @@
+| ?- {consulting /Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/holmer/meta_qsort.in ...}
+
+# Name: meta_qsort
+# Iterations: 1000
+# TestTime: 4374 msec.
+# OverHead: 117 msec.
+# TestTime-OverHead: 4257 msec.
+# (TestTime-OverHead)/Iterations: 4.257 msec.
+###CSV###,meta_qsort,1000,4374,117,4257,4.257
+
+{/Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/holmer/meta_qsort.in consulted, 7 msec}

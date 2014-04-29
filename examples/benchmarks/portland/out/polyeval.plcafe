@@ -1,0 +1,11 @@
+| ?- {consulting /Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/portland/polyeval.in ...}
+
+# Name: polybench(51)
+# Iterations: 1000
+# TestTime: 1237 msec.
+# OverHead: 128 msec.
+# TestTime-OverHead: 1109 msec.
+# (TestTime-OverHead)/Iterations: 1.109 msec.
+###CSV###,polybench(51),1000,1237,128,1109,1.109
+
+{/Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/portland/polyeval.in consulted, 28 msec}

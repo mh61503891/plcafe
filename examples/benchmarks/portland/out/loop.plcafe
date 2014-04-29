@@ -1,0 +1,11 @@
+| ?- {consulting /Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/portland/loop.in ...}
+
+# Name: loop(20000)
+# Iterations: 1000
+# TestTime: 2444 msec.
+# OverHead: 100 msec.
+# TestTime-OverHead: 2344 msec.
+# (TestTime-OverHead)/Iterations: 2.344 msec.
+###CSV###,loop(20000),1000,2444,100,2344,2.344
+
+{/Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/portland/loop.in consulted, 26 msec}

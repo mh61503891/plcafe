@@ -1,0 +1,13 @@
+| ?- {consulting /Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/holmer/boyer.in ...}
+{expanding trail...}
+{expanding trail...}
+
+# Name: boyer
+# Iterations: 1000
+# TestTime: 426011 msec.
+# OverHead: 130 msec.
+# TestTime-OverHead: 425881 msec.
+# (TestTime-OverHead)/Iterations: 425.881 msec.
+###CSV###,boyer,1000,426011,130,425881,425.881
+
+{/Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/holmer/boyer.in consulted, 7 msec}

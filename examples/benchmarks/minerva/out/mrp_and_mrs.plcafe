@@ -1,0 +1,11 @@
+| ?- {consulting /Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/minerva/mrp_and_mrs.in ...}
+
+# Name: MrPandMrS
+# Iterations: 10
+# TestTime: 57696 msec.
+# OverHead: 1 msec.
+# TestTime-OverHead: 57695 msec.
+# (TestTime-OverHead)/Iterations: 5769.5 msec.
+###CSV###,MrPandMrS,10,57696,1,57695,5769.5
+
+{/Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/minerva/mrp_and_mrs.in consulted, 6 msec}

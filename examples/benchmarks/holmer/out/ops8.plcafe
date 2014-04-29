@@ -1,0 +1,11 @@
+| ?- {consulting /Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/holmer/ops8.in ...}
+
+# Name: ops8
+# Iterations: 1000
+# TestTime: 253 msec.
+# OverHead: 114 msec.
+# TestTime-OverHead: 139 msec.
+# (TestTime-OverHead)/Iterations: 0.139 msec.
+###CSV###,ops8,1000,253,114,139,0.139
+
+{/Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/holmer/ops8.in consulted, 7 msec}

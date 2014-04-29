@@ -1,0 +1,11 @@
+| ?- {consulting /Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/portland/cd.in ...}
+
+# Name: cd(10000)
+# Iterations: 1000
+# TestTime: 4678 msec.
+# OverHead: 103 msec.
+# TestTime-OverHead: 4575 msec.
+# (TestTime-OverHead)/Iterations: 4.575 msec.
+###CSV###,cd(10000),1000,4678,103,4575,4.575
+
+{/Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/portland/cd.in consulted, 28 msec}

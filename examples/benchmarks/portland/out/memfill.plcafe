@@ -1,0 +1,11 @@
+| ?- {consulting /Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/portland/memfill.in ...}
+
+# Name: memfill(1000)
+# Iterations: 100
+# TestTime: 13244 msec.
+# OverHead: 14 msec.
+# TestTime-OverHead: 13230 msec.
+# (TestTime-OverHead)/Iterations: 132.3 msec.
+###CSV###,memfill(1000),100,13244,14,13230,132.3
+
+{/Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/portland/memfill.in consulted, 21 msec}

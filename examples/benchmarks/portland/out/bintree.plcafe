@@ -1,0 +1,11 @@
+| ?- {consulting /Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/portland/bintree.in ...}
+
+# Name: bintree(100)
+# Iterations: 1000
+# TestTime: 1253 msec.
+# OverHead: 131 msec.
+# TestTime-OverHead: 1122 msec.
+# (TestTime-OverHead)/Iterations: 1.122 msec.
+###CSV###,bintree(100),1000,1253,131,1122,1.122
+
+{/Users/banbara/prog/plcafe/PrologCafe1.2.4/examples/benchmarks/portland/bintree.in consulted, 25 msec}
